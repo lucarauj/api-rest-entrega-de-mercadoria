@@ -1,0 +1,12 @@
+
+.apt_generated_tests
+.mvn/
+.settings/
+src/test
+target/
+.classpath
+.factorypath
+.project
+HELP.md
+mvnw
+mvnw.md
