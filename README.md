@@ -13,7 +13,7 @@
 
 - Web Services - API que fornece sua interface de comunicação pela web
 
-- REST - Representational State Transfer: estio arquitetural para desenvolver web services.
+- REST - Representational State Transfer: estilo arquitetural para desenvolver web services.
 
 - URI - Uniform Resource Identifier: Identificador de Recurso Uniforme.
 
